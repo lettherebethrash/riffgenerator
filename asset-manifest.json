@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/riffgenerator/static/css/main.4c36a965.chunk.css",
+    "main.js": "/riffgenerator/static/js/main.98f6266d.chunk.js",
+    "main.js.map": "/riffgenerator/static/js/main.98f6266d.chunk.js.map",
+    "runtime-main.js": "/riffgenerator/static/js/runtime-main.692ff208.js",
+    "runtime-main.js.map": "/riffgenerator/static/js/runtime-main.692ff208.js.map",
+    "static/js/2.9620d442.chunk.js": "/riffgenerator/static/js/2.9620d442.chunk.js",
+    "static/js/2.9620d442.chunk.js.map": "/riffgenerator/static/js/2.9620d442.chunk.js.map",
+    "static/js/3.d469e7ba.chunk.js": "/riffgenerator/static/js/3.d469e7ba.chunk.js",
+    "static/js/3.d469e7ba.chunk.js.map": "/riffgenerator/static/js/3.d469e7ba.chunk.js.map",
+    "index.html": "/riffgenerator/index.html",
+    "static/css/main.4c36a965.chunk.css.map": "/riffgenerator/static/css/main.4c36a965.chunk.css.map",
+    "static/js/2.9620d442.chunk.js.LICENSE.txt": "/riffgenerator/static/js/2.9620d442.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.692ff208.js",
+    "static/js/2.9620d442.chunk.js",
+    "static/css/main.4c36a965.chunk.css",
+    "static/js/main.98f6266d.chunk.js"
+  ]
+}
